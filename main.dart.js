@@ -61794,7 +61794,7 @@ return A.Y($async$rQ,r)}}
 A.Zr.prototype={}
 A.aaC.prototype={
 $1(a){var s,r=document.createElement("iframe")
-r.src="https://vitiable-yanira-nondivergent.ngrok-free.dev/video.mjpg"
+r.src="https://vitiable-yanira-nondivergent.ngrok-free.dev"
 s=r.style
 s.width="100%"
 s=r.style
